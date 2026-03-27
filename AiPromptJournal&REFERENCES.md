@@ -46,7 +46,7 @@ AI Response Summary:
 
 - Swagger UI and ReDoc are built-in
 - Can customize title, description, version in FastAPI() constructor
-C- an add descriptions to endpoints
+- Can add descriptions to endpoints
 
 
 📚 References
