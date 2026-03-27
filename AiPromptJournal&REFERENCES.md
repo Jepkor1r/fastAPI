@@ -54,7 +54,9 @@ AI Response Summary:
 ## Official Documentation:
 
 ([FastAPI Official Docs](https://fastapi.tiangolo.com/))
+
 ([FastAPI GitHub](https://github.com/fastapi/fastapi))
+
 ([Pydantic Documentation](https://docs.pydantic.dev/))
 
 ## Tutorials & Blogs:
