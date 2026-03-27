@@ -1,6 +1,6 @@
 # Prompt-Powered Kickstart: Building a Beginner’s Toolkit for FASTAPI
  
-<em>Built this to learn FastAPI. Stayed because it’s dangerously efficient.</em>
+<em>Built this to learn FastAPI. Stayed because it’s dangerously efficient!</em>
 
 ## TL;DR
  FastAPI – a modern, high-performance Python web framework for building RESTful APIs.
@@ -83,18 +83,6 @@ pip install fastapi[standard]
 pip install -r requirements.txt
 
 -------
-## Minimal Working Example
-
-
-📂 Project Structure
-
-```bash
-fastapi-beginner/
-├── main.py
-├── models.py
-├── routes/
-└── requirements.txt
-```
 
 
 The Code (main.py)
@@ -213,4 +201,5 @@ POST http://127.0.0.1:8000/items → Create an item
 - Deploy to Render or AWS
 
 Happy Coding! 🎉
-Built with FastAPI + AI Assistance
+
+- Built with FastAPI + AI Assistance

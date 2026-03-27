@@ -7,10 +7,12 @@ Prompt Used:
 
 AI Response Summary:
 
-Installation of FastAPI & Uvicorn
-Simple Hello World example
-Instructions to run the server
-Links to auto documentation
+- Installation of FastAPI & Uvicorn
+- Simple Hello World example
+- Instructions to run the server
+- Links to auto documentation
+
+
 🟡 Prompt #2: Understanding Path Parameters
 
 Prompt Used:
@@ -18,9 +20,11 @@ Prompt Used:
 
 AI Response Summary:
 
-Use {parameter_name} in route paths
-Type hinting with expected data types
-Automatic validation
+- Use {parameter_name} in route paths
+- Type hinting with expected data types
+- Automatic validation
+
+
 🔵 Prompt #4: Error Handling
 
 Prompt Used:
@@ -28,9 +32,11 @@ Prompt Used:
 
 AI Response Summary:
 
-Use HTTPException for proper error responses
-Return a dictionary with error messages
-Set appropriate HTTP status codes
+- Use HTTPException for proper error responses
+- Return a dictionary with error messages
+- Set appropriate HTTP status codes
+
+
 🟣 Prompt #5: Interactive Documentation
 
 Prompt Used:
@@ -38,9 +44,11 @@ Prompt Used:
 
 AI Response Summary:
 
-Swagger UI and ReDoc are built-in
-Can customize title, description, version in FastAPI() constructor
-Can add descriptions to endpoints
+- Swagger UI and ReDoc are built-in
+- Can customize title, description, version in FastAPI() constructor
+C- an add descriptions to endpoints
+
+
 📚 References
 
 ## Official Documentation:
