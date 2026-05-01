@@ -199,7 +199,4 @@ POST http://127.0.0.1:8000/items → Create an item
 - Connect PostgreSQL
 - Dockerize the app
 - Deploy to Render or AWS
-
-Happy Coding! 🎉
-
 - Built with FastAPI + AI Assistance
